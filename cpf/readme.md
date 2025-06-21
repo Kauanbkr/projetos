@@ -22,7 +22,7 @@ X 1 2 3 4 5 6 7 8 9
 
                               17 x 11 = 187
 
-                              189 - 187 = <b>2</b> (Primeiro digito verificador)
+                              189 - 187 = **`2`** (Primeiro digito verificador)
 
   0 7 4 6 3 0 5 1 9 2
 X 0 1 2 3 4 5 6 7 8 9
